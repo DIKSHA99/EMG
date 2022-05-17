@@ -11,7 +11,8 @@ Filtering Range:
 (20 to 450)Hz
 
 Windowing:
-100ms: Electromechanical Delay(EMD) ranges between 30 to 100 ms varying with respect to muscles
+100ms: Electromechanical Delay(EMD) ranges between 30 to 100 ms varying with respect to muscles.
+
 EMD: Its the delay between initialization of EMG signal to the begininng of the actual motion. Understanding and windowing this time gap can help us understand the intension of motion.
 
 
