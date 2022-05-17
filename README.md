@@ -8,6 +8,8 @@ Then move on to Filtering file: This deals with usage of low pass, high pass and
 
 Then move to Feature Engineering file: It deals with the cleaning, processing , windowing and extraction of features.
 
+Exoskeleton_evaluation: This file deals visualization and evaluation of EMG amplitudes with and without exoskeleton. Refereing to the recruitment process of the muscles, when the load increases/ when more effort is required, more number of muscle fibers are recruited to the process, hence the culminative surface EMG would be higher in amplitude. Presence of an exoskelton helps reduce the efforts of the muscles in consideration, hence we would observe a decrease in amplitudes if Exoskeleton results to be effective with respect to a certain muscle.
+
 
 Filtering Range:
 (20 to 450)Hz
