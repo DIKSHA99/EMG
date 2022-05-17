@@ -3,7 +3,7 @@
 The EMG signal file uploaded: (raw1.xlsx).
 It is a 4000 sample long signal, that is, 4 sec long signal of Gastronemius Medialis muscle. 
 
-Navigating through repository:
+Navigating through the repository:
 
 
 Start from **RAW_SIGNAL**: it deals with the evaluation and visualization of raw EMG signal
