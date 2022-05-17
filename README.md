@@ -1,7 +1,9 @@
 # EMG
 Evaluation of EMG
 Start with the file named RAW_SIGNAL: it deals with the evaluation and visualization of raw EMG signal
+
 Then move on to Filtering file: This deals with usage of low pass, high pass and band pass filters to limit the EMG between the useful range of (20 to 450)Hz
+
 Then move to Feature Engineering file: It deals with the cleaning, processing , windowing and extraction of features.
 
 
